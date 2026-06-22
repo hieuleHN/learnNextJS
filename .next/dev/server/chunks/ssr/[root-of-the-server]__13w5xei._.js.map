@@ -1,0 +1,8 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 13, "column": 0}, "map": {"version":3,"sources":["file:///E:/Th%E1%BB%B1c%20t%E1%BA%ADp/NEXTJS/my-nextjs-app/app/favicon.ico.mjs%20%28structured%20image%20object%29"],"sourcesContent":["import src from \"IMAGE\";\nexport default { src, width: 256, height: 256 }\n"],"names":["src","width","height"],"mappings":";;;;AAAA;;uCACe;IAAEA,KAAAA,mIAAG;IAAEC,OAAO;IAAKC,QAAQ;AAAI"}},
+    {"offset": {"line": 34, "column": 0}, "map": {"version":3,"sources":["file:///E:/Th%E1%BB%B1c%20t%E1%BA%ADp/NEXTJS/my-nextjs-app/app/about/page.tsx"],"sourcesContent":["\r\nexport default function Home() {\r\n  return (\r\n    <div>\r\n      <h1 className=\"text-amber-300\">Giới Thiệu dsgfds</h1>\r\n      <p>fnjbfksabkjbj.</p>\r\n    </div>\r\n  );\r\n}\r\n"],"names":["Home","className"],"mappings":";;;;;;AACe,SAASA;IACtB,qBACE,8OAAC;;0BACC,8OAAC;gBAAGC,WAAU;0BAAiB;;;;;;0BAC/B,8OAAC;0BAAE;;;;;;;;;;;;AAGT"}},
+    {"offset": {"line": 69, "column": 0}, "map": {"version":3,"sources":["file:///E:/Th%E1%BB%B1c%20t%E1%BA%ADp/NEXTJS/my-nextjs-app/app/page.tsx"],"sourcesContent":["import { BrowserRouter, Routes, Route } from \"react-router-dom\";\nimport Home from \"./about/page\";\n\nexport default function AppRouter() {\n  return (\n    <BrowserRouter>\n      <Routes>\n        <Route path=\"/\" element={<Home />} />\n      </Routes>\n    </BrowserRouter>\n  );\n}\n"],"names":["AppRouter","path","element"],"mappings":";;;;;AAAA;AACA;;;;AAEe,SAASA;IACtB,qBACE,8OAAC,wKAAa;kBACZ,cAAA,8OAAC,iKAAM;sBACL,cAAA,8OAAC,gKAAK;gBAACC,MAAK;gBAAIC,uBAAS,8OAAC,gIAAI;;;;;;;;;;;;;;;;;;;;AAItC"}}]
+}

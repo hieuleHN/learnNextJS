@@ -1,0 +1,3 @@
+{
+  "/api/postgraphile/route": "app/api/postgraphile/route.js"
+}
